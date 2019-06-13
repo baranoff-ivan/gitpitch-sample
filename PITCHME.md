@@ -1,8 +1,8 @@
-# Let's Get Started
+# Приступим!
 
 ---
 
-## Add Some Slide Candy
+## Первый слайд с картинкой
 
 ![](assets/img/presentation.png)
 
@@ -10,7 +10,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Кастомизация содержимого
 @snapend
 
 @snap[east span-50]
@@ -18,18 +18,18 @@
 @snapend
 
 ---?color=#E58537
-@title[Add A Little Imagination]
+@title[Немного воображения]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+#### Добавим немного @color[cyan](**цвета**) и мы готовы к презентации...
 @snapend
 
 @snap[west span-55]
 @ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Ты удивишься
+- Чего можно достичь
+- *С помощью воображения...*
+- И **GitPitch Markdown**
 @ulend
 @snapend
 
@@ -40,7 +40,7 @@
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 headline]
-## Now It's Your Turn
+## Теперь твой ход
 @snapend
 
 @snap[south span-100 text-06]
